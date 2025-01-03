@@ -50,4 +50,4 @@ Statistical Analysis: statsmodels
 ## For questions or collaboration, feel free to reach out:
 
 ### Author: Aswin Manoharan Kuniyil
-### Email: aswinmanoharan2000"gmail.com
+### Email: aswinmanoharan2000@gmail.com
