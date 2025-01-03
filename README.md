@@ -36,18 +36,4 @@ Statistical Analysis: statsmodels
 ### * RF demonstrated superior performance in multivariate analysis for the STC dataset
 ### * ANN outperformed RF in multivariate analysis for the Zain and Mobily datasets.
 ### * Key findings highlight the strengths of ML models in handling specific datasets and analysis types.
-# Contributing
-## Contributions are welcome! Please follow these steps:
 
-### 1.Fork the repository.
-### 2.Create a new branch:
-### 3.Commit your changes:
-### 4.Push the branch:
-### 5.Open a Pull Request:
-# License
-## This project is licensed under the MIT License.
-# Contact
-## For questions or collaboration, feel free to reach out:
-
-### Author: Aswin Manoharan Kuniyil
-### Email: aswinmanoharan2000@gmail.com
