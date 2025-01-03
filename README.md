@@ -19,9 +19,7 @@ Machine Learning: sklearn, keras
 Statistical Analysis: statsmodels
 ## Installation
 ### 1.Clone the repository:
-git clone <repository-url>
 ### 2.Install dependencies:
-pip install -r requirements.txt
 ### 3.Run the Jupyter Notebook or Python scripts to train and evaluate the models.
 # Usage
 ## 1.Preprocess the data:
