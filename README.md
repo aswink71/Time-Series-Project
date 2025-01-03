@@ -49,7 +49,7 @@ pip install -r requirements.txt
 # License
 ## This project is licensed under the MIT License.
 # Contact
-## MFor questions or collaboration, feel free to reach out:
+## For questions or collaboration, feel free to reach out:
 
 ### Author: Aswin Manoharan Kuniyil
 ### Email: aswinmanoharan2000"gmail.com
