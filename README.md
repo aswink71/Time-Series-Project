@@ -21,14 +21,14 @@ Statistical Analysis: statsmodels
 ### 1.Clone the repository:
 ### 2.Install dependencies:
 ### 3.Run the Jupyter Notebook or Python scripts to train and evaluate the models.
-# Usage
-## 1.Preprocess the data:
+### Usage
+### 1.Preprocess the data:
 * clean and scale the dataset.
-## 2.Perform Univariate and Multivariate Analysis:
+### 2.Perform Univariate and Multivariate Analysis:
 * Choose the desired analysis mode and dataset.
-## 3.Train Models:
+### 3.Train Models:
 * Use the Random Forest or ANN model to predict stock prices.
-## 4.Evaluate:
+### 4.Evaluate:
 * Compare predicted vs actual values using the provided metrics.
 # Results
 ### * ANN demonstrated superior performance in univariate analysis for the STC dataset.
