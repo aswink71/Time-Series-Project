@@ -23,7 +23,7 @@ Statistical Analysis: statsmodels
 ### 3.Run the Jupyter Notebook or Python scripts to train and evaluate the models.
 # Usage
 ## 1.Preprocess the data:
-*Use the provided scripts to clean and scale the dataset.
+* clean and scale the dataset.
 ## 2.Perform Univariate and Multivariate Analysis:
 * Choose the desired analysis mode and dataset.
 ## 3.Train Models:
